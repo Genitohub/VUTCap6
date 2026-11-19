@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 111,
+    "width": 784,
+    "height": 1046,
+    "isRotated": true,
+    "originalWidth": 1008,
+    "originalHeight": 1046
+  },
+  "imagePath": "image-targets/V611b_luminance.jpg",
+  "metadata": null,
+  "name": "V611b",
+  "resources": {
+    "originalImage": "V611b_original.jpg",
+    "croppedImage": "V611b_cropped.jpg",
+    "thumbnailImage": "V611b_thumbnail.jpg",
+    "luminanceImage": "V611b_luminance.jpg"
+  },
+  "created": 1795125627488,
+  "updated": 1795125627488
+}
