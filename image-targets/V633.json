@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 166,
+    "left": 0,
+    "width": 783,
+    "height": 1044,
+    "isRotated": true,
+    "originalWidth": 783,
+    "originalHeight": 1376
+  },
+  "imagePath": "image-targets/V633_luminance.jpg",
+  "metadata": null,
+  "name": "V633",
+  "resources": {
+    "originalImage": "V633_original.jpg",
+    "croppedImage": "V633_cropped.jpg",
+    "thumbnailImage": "V633_thumbnail.jpg",
+    "luminanceImage": "V633_luminance.jpg"
+  },
+  "created": 1789596217299,
+  "updated": 1789596217299
+}

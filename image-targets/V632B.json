@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 110,
+    "width": 786,
+    "height": 1049,
+    "isRotated": true,
+    "originalWidth": 1008,
+    "originalHeight": 1049
+  },
+  "imagePath": "image-targets/V632B_luminance.jpg",
+  "metadata": null,
+  "name": "V632B",
+  "resources": {
+    "originalImage": "V632B_original.jpg",
+    "croppedImage": "V632B_cropped.jpg",
+    "thumbnailImage": "V632B_thumbnail.jpg",
+    "luminanceImage": "V632B_luminance.jpg"
+  },
+  "created": 1790111306946,
+  "updated": 1790111306946
+}

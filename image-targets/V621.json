@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 11,
+    "width": 683,
+    "height": 911,
+    "isRotated": true,
+    "originalWidth": 707,
+    "originalHeight": 911
+  },
+  "imagePath": "image-targets/V621_luminance.jpg",
+  "metadata": null,
+  "name": "V621",
+  "resources": {
+    "originalImage": "V621_original.jpg",
+    "croppedImage": "V621_cropped.jpg",
+    "thumbnailImage": "V621_thumbnail.jpg",
+    "luminanceImage": "V621_luminance.jpg"
+  },
+  "created": 1794867879356,
+  "updated": 1794867879356
+}
